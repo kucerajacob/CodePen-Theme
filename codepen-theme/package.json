@@ -18,7 +18,7 @@
 		"codepen",
 		"codepen.io"
 	],
-	"icon": "codepen-icon.png",
+	"icon": "icon.png",
     "contributes": {
         "themes": [
             {
