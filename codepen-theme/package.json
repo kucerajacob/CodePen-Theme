@@ -1,0 +1,31 @@
+{
+    "name": "codepen-theme",
+    "displayName": "codepen-theme",
+    "description": "codepen.io syntax theme - compatable with .html, .css, .js, .jsx",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.0.0"
+	},
+	"publisher": "jacob-kucera",
+	"author": {
+		"name": "Jacob Kucera"
+	},
+    "categories": [
+        "Themes"
+	],
+	"keywords": [
+		"vs code codepen",
+		"codepen",
+		"codepen.io"
+	],
+	"icon": "icon.png",
+    "contributes": {
+        "themes": [
+            {
+                "label": "Codepen Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Codepen Theme-color-theme.json"
+            }
+        ]
+    }
+}
